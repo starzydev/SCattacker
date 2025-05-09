@@ -1,3 +1,7 @@
 theme: jekyll-theme-hacker
 title: SCA Scripting
 description: The home of scripts.
+collections:
+  pastes:
+    output: true
+    permalink: /pastes/:title/
