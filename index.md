@@ -1,2 +1,3 @@
+---
 # SC Attack
 ## For school.
